@@ -1,23 +1,16 @@
 fileFormatVersion: 2
-guid: 0a4a6fbe32170524f81a3bbd3b285001
+guid: e6b757f7a0cb5f7418030a3ff9d04b39
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Water_Tile_Map_16x16_0
-    21300002: Water_Tile_Map_16x16_1
-    21300004: Water_Tile_Map_16x16_2
-    21300006: Water_Tile_Map_16x16_3
-    21300008: Water_Tile_Map_16x16_4
-    21300010: Water_Tile_Map_16x16_5
-    21300012: Water_Tile_Map_16x16_6
-    21300014: Water_Tile_Map_16x16_7
-    21300016: Water_Tile_Map_16x16_8
-    21300018: Water_Tile_Map_16x16_9
-    21300020: Water_Tile_Map_16x16_10
-    21300022: Water_Tile_Map_16x16_11
-    21300024: Water_Tile_Map_16x16_12
-    21300026: Water_Tile_Map_16x16_13
-    21300028: Water_Tile_Map_16x16_14
-    21300030: Water_Tile_Map_16x16_15
+    21300000: Astronaut_rifle_16x16_0
+    21300002: Astronaut_rifle_16x16_1
+    21300004: Astronaut_rifle_16x16_2
+    21300006: Astronaut_rifle_16x16_3
+    21300008: Astronaut_rifle_16x16_4
+    21300010: Astronaut_rifle_16x16_5
+    21300012: Astronaut_rifle_16x16_6
+    21300014: Astronaut_rifle_16x16_7
+    21300016: Astronaut_rifle_16x16_8
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -79,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -90,7 +83,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,87 +93,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Water_Tile_Map_16x16_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 11339247b3cbe5a47af94d7acc01dd82
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Water_Tile_Map_16x16_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 260a3a2109732a341a448cca07a40804
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Water_Tile_Map_16x16_2
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 31e47004649df8b4d802844c80985c82
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Water_Tile_Map_16x16_3
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e1cbfe5bad17e154b91ea82a54099305
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Water_Tile_Map_16x16_4
+      name: Astronaut_rifle_16x16_0
       rect:
         serializedVersion: 2
         x: 0
@@ -194,13 +107,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 378f009eb61dcfe41915ad39d57811d8
+      spriteID: 7dae9537a72bbe4449dfc1c7b36ff23f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_Tile_Map_16x16_5
+      name: Astronaut_rifle_16x16_1
       rect:
         serializedVersion: 2
         x: 16
@@ -214,13 +127,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a843a46cec209f740ac850eee40b548f
+      spriteID: b6d62e6b9b6b90647bb8c59aa1951b63
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_Tile_Map_16x16_6
+      name: Astronaut_rifle_16x16_2
       rect:
         serializedVersion: 2
         x: 32
@@ -234,33 +147,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61ac638fa49be9e43adcb745907fd393
+      spriteID: 8f587e117b79baf44bb824beabf962f9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_Tile_Map_16x16_7
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b23ffefda88c45240820a535a5af9916
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Water_Tile_Map_16x16_8
+      name: Astronaut_rifle_16x16_3
       rect:
         serializedVersion: 2
         x: 0
@@ -274,13 +167,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7ea4ea3a0569224289d14f47bb020ae
+      spriteID: 57c3bcec540bbd04c8c3194b7ce87a30
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_Tile_Map_16x16_9
+      name: Astronaut_rifle_16x16_4
       rect:
         serializedVersion: 2
         x: 16
@@ -294,13 +187,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 514a9ceb238104b429dc2f6c02338a68
+      spriteID: 2ece1d43dcdb2034e8309099bb1248a1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_Tile_Map_16x16_10
+      name: Astronaut_rifle_16x16_5
       rect:
         serializedVersion: 2
         x: 32
@@ -314,33 +207,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74c3b82fedb19f0479bea10a4f30568d
+      spriteID: ce311f26504a53341b0b3d77fe9d31df
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_Tile_Map_16x16_11
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ec48d9f2469c2bf42babe83e2632dcbf
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Water_Tile_Map_16x16_12
+      name: Astronaut_rifle_16x16_6
       rect:
         serializedVersion: 2
         x: 0
@@ -354,13 +227,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9f98f44d1642414d8cf148fe00dfa31
+      spriteID: a8657cec54d62f843a9b108244d03e5d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_Tile_Map_16x16_13
+      name: Astronaut_rifle_16x16_7
       rect:
         serializedVersion: 2
         x: 16
@@ -374,13 +247,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1fce78bff9387147bf17179b4faccdf
+      spriteID: 33d692b6e0897c947b1f6ea599e71c27
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_Tile_Map_16x16_14
+      name: Astronaut_rifle_16x16_8
       rect:
         serializedVersion: 2
         x: 32
@@ -394,27 +267,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26cac8d93181cee4fa0d9f9517730c92
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Water_Tile_Map_16x16_15
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dab9146e3b089cc4e9178b70fd87c134
+      spriteID: ba867f61ccbb4534e98cdd40aab28cd4
       vertices: []
       indices: 
       edges: []
@@ -422,7 +275,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 0cbb5268693ad0a44af0d5e10ce6a585
+    spriteID: 21300d62cb5981b49b08cb055b11a3a0
     vertices: []
     indices: 
     edges: []
